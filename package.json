@@ -1,0 +1,28 @@
+{
+  "name": "vo21-module",
+  "version": "1.0.0",
+  "description": "A Node.js module for simple Caesar cipher encryption and decryption.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vo219/vo21-module"
+  },
+  "dependencies": {
+	  "loginovy": "1.0.0",
+"marinahramtsova-js": "1.0.0",
+"sdk-krotovsemen": "1.0.0",
+"edwardevans": "1.0.0",
+"part-lenovpaha": "1.0.0",
+"denisgorlov-math": "1.0.0",
+    "crypto-js": "^4.1.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vo219/vo21-module/issues"
+  },
+  "homepage": "https://github.com/vo219/vo21-module#readme"
+}
